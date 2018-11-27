@@ -3,10 +3,12 @@
     <property name="created">2018-11-27T08:56:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-27T10:01:46</property>
+    <property name="modified">2018-11-27T12:11:59</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="19f9d8" />
+    <option name="DELETED_LINES_COLOR" value="ff4b82" />
     <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
@@ -14,16 +16,28 @@
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="LINE_NUMBERS_COLOR" value="989898" />
+    <option name="MODIFIED_LINES_COLOR" value="ffcc95" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="757575" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value />
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ffb86c" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="676b79" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff9ac1" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -72,6 +86,11 @@
       <value />
     </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff9ac1" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ff4b82" />
@@ -123,9 +142,22 @@
         <option name="FOREGROUND" value="19f9d8" />
       </value>
     </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="45a9f9" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ffcc95" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff2c6d" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
@@ -156,6 +188,36 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffb86c" />
+      </value>
+    </option>
+    <option name="JS.NULL_UNDEFINED">
+      <value>
+        <option name="FOREGROUND" value="ffb86c" />
+      </value>
+    </option>
+    <option name="JS.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="ff9ac1" />
+      </value>
+    </option>
+    <option name="JS.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="ffb86c" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="19f9d8" />
+      </value>
+    </option>
+    <option name="JSP_DIRECTIVE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff2c6d" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
