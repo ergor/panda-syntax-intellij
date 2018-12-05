@@ -3,7 +3,7 @@
     <property name="created">2018-11-27T08:56:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-27T12:11:59</property>
+    <property name="modified">2018-12-05T13:01:58</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -160,6 +160,14 @@
         <option name="FOREGROUND" value="ff2c6d" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="e5d4f" />
+        <option name="EFFECT_COLOR" value="19f9d8" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -210,7 +218,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="19f9d8" />
+        <option name="FOREGROUND" value="ffcc95" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -222,6 +230,11 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="11f3cb" />
+      </value>
+    </option>
+    <option name="PROPERTIES.KEY">
+      <value>
+        <option name="FOREGROUND" value="ffcc95" />
       </value>
     </option>
     <option name="TEXT">
@@ -236,6 +249,20 @@
         <option name="FOREGROUND" value="ffde00" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="532738" />
+        <option name="EFFECT_COLOR" value="ff75b5" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff2c6d" />
       </value>
     </option>
   </attributes>
